@@ -21,6 +21,34 @@
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## 補遺
+
+本文書はDeepLの無料版によって翻訳されました。
+
+Sawaratsukiによる元のアカウントは半休眠状態のようです：
+* [リポジトリに追加された最後のロゴ](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb)は2025年4月16日付け
+* [Twitterでの最終投稿](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20)は2024年6月2日
+* [Patreonでの最終（公開）投稿](https://www.patreon.com/posts/meikinguying-ri-103175447)は2024年4月28日
+* [YouTubeでの最終動画](https://www.youtube.com/watch?v=Off9zkQUmu4)は2023年6月21日
+
+よって、本フォークはオリジナルリポジトリのアーカイブ目的で作成されました。
+
+このフォークはSawaratsukiによって作成されていないコンテンツを追加するものではなく、現在利用可能で公開されているすべてのコンテンツをアーカイブするものです。
+
+以下の手順でこれを実現しました：
+* 元のリポジトリをフォーク
+* リポジトリをフラット化（サブフォルダを削除し、すべての画像をリポジトリのルートに配置）
+* READMEファイルの命名規則を統一
+* 全ファイルの命名規則を統一
+  * 大文字小文字・スペースを修正
+  * `- transparent`などの接尾辞を一貫して使用
+* 著者の[Twitterアカウント]から全画像をダウンロード
+  * 「チェッカーボード」背景の代わりに透明版を作成：
+    * 単純なケース：Gimp（ファジー選択→PNGへコピー）→ `- transparent`で表記
+    * テキスト周囲に白枠がある場合：Gimp（ファジー選択、PNGへコピー）を使用；`- transparent - hard crop`と表記
+* 残念ながら、私は Skeb アカウントを持っていないため、[Skeb アカウント](https://skeb.jp/@sawaratsuki)で利用可能な画像をダウンロードできません。
+* 残念ながらPatreonアカウントを持っていないため、[Patreonアカウント](https://www.patreon.com/u105533883)で提供されているコンテンツにはアクセスできません。
+
 ## ライセンス
 
 このリポジトリは以下の独自ライセンスが付与されます。

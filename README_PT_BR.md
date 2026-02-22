@@ -21,6 +21,34 @@ Olá e boa noite. Este é o repositório onde os logos criados por Sawaratsuki s
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Adendo
+
+Este texto foi traduzido pela versão gratuita do DeepL.
+
+As contas originais de Sawaratsuki parecem estar semi-inativas:
+* O [último logotipo adicionado ao repositório](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) é de 16/04/2025
+* A [última postagem no Twitter](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) é de 02/06/2024
+* A [última postagem (pública) no Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) é de 28/04/2024
+* O [último vídeo no YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) é de 21/06/2023
+
+Portanto, este fork do repositório original tem fins de arquivamento.
+
+Este fork não adiciona conteúdo não criado por Sawaratsuki, apenas arquiva todo o conteúdo atualmente disponível e tornado público por eles.
+
+Isso foi conseguido através das seguintes etapas:
+* Fork do repositório original
+* Achatar o repositório, ou seja, remover as subpastas e colocar todas as imagens na raiz do repositório
+* Consolidar a nomenclatura dos arquivos README
+* Consolidar a nomenclatura de todos os arquivos
+  * Corrigir maiúsculas, minúsculas e espaços
+  * Usar `- transparente` e sufixos semelhantes de forma consistente
+* Baixar todas as imagens da [conta do Twitter] do autor
+  * Criar versões transparentes das imagens em vez do fundo “xadrez” com
+    * Gimp (seleção difusa, copiar para um PNG) para casos simples; anotado com `- transparente`
+    * Gimp (seleção difusa, copiar para um PNG) para casos em que há uma borda branca ao redor do texto; anotado com `- transparente - recorte rígido`
+* Infelizmente, não tenho uma conta Skeb, portanto não posso baixar as imagens disponíveis na [conta Skeb](https://skeb.jp/@sawaratsuki)
+* Infelizmente, não tenho uma conta Patreon, portanto não posso acessar nenhum conteúdo que possa estar disponível na [conta Patreon](https://www.patreon.com/u105533883)
+
 ## Licença
 
 Este repositório está licenciado sob a seguinte licença proprietária.

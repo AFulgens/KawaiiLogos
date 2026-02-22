@@ -20,6 +20,34 @@ Hola y buenas noches. Este es el repositorio donde los logos creados por Sawarat
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Apéndice
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
+
+Las cuentas originales de Sawaratsuki parecen estar semiactivas:
+* El [último logotipo añadido al repositorio](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) es del 16 de abril de 2025.
+* La [última publicación en Twitter](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) es del 2 de junio de 2024.
+* La [última publicación (pública) en Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) es del 28 de abril de 2024.
+* El [último vídeo en YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) es del 21 de junio de 2023.
+
+Por lo tanto, esta bifurcación del repositorio original tiene fines de archivo.
+
+Esta bifurcación no añade contenido que no haya sido creado por Sawaratsuki, solo archiva todo el contenido disponible actualmente y hecho público por ellos.
+
+Esto se ha logrado mediante los siguientes pasos:
+* Bifurcar el repositorio original
+* Aplanar el repositorio, es decir, eliminar las subcarpetas y colocar todas las imágenes en la raíz del repositorio
+* Consolidar los nombres de los archivos README
+* Consolidar la nomenclatura de todos los archivos.
+  * Corregir mayúsculas, minúsculas y espacios.
+  * Utilizar «- transparente» y sufijos similares de forma coherente.
+* Descargar todas las imágenes de la [cuenta de Twitter] del autor.
+  * Crear versiones transparentes de las imágenes en lugar del fondo «ajedrezado» con
+    * Gimp (selección difusa, copiar en PNG) para casos sencillos; anotado con «- transparente».
+    * Gimp (selección difusa, copiar en PNG) para los casos en los que hay un borde blanco alrededor del texto; anotado con `- transparente - recorte duro`
+* Lamentablemente, no tengo una cuenta Skeb, por lo que no puedo descargar las imágenes disponibles en la [cuenta Skeb](https://skeb.jp/@sawaratsuki).
+* Lamentablemente, no tengo una cuenta de Patreon, por lo que no puedo acceder a ningún contenido que pueda estar disponible en la [cuenta de Patreon](https://www.patreon.com/u105533883).
+
 ## Licencia
 
 Este repositorio esta licenciado bajo la siguiente licencia propietaria.

@@ -19,6 +19,34 @@
 
  <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## 附錄
+
+本文由 DeepL 免費版本翻譯。
+
+Sawaratsuki 的原始帳戶似乎處於半休眠狀態：
+* [儲存庫最後新增的標誌](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) 為 2025-04-16
+* [Twitter最後發文](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) 為2024年6月2日
+* [Patreon最後（公開）貼文](https://www.patreon.com/posts/meikinguying-ri-103175447) 為2024年4月28日
+* [YouTube最後影片](https://www.youtube.com/watch?v=Off9zkQUmu4) 為2023年6月21日
+
+故此分支旨在為原始儲存庫建立存檔。
+
+此分支不新增非 Sawaratsuki 創作之內容，僅存檔其目前公開發布的所有現有作品。
+
+具體執行步驟如下：
+* 分支原始儲存庫
+* 扁平化儲存庫結構（移除子資料夾，將所有圖片置於儲存庫根目錄）
+* 統一 README 檔案命名規則
+* 統一所有檔案命名規則
+  * 修正大小寫與空格格式
+  * 統一採用 `- transparent` 等後綴標記
+* 從作者的[Twitter帳號]下載所有圖片
+  * 針對帶有「棋盤格」背景的圖片，透過以下方式生成透明版本：
+    * 簡單案例使用 Gimp（模糊選取後複製為 PNG），標記為 `- transparent`
+    * 文字周圍有白邊時使用 Gimp（模糊選取，複製為 PNG）；註記為 `- transparent - hard crop`
+* 遺憾的是，我沒有 Skeb 帳號，因此無法下載 [Skeb 帳號](https://skeb.jp/@sawaratsuki) 提供的圖片。
+* 遺憾的是，我沒有 Patreon 帳號，因此無法存取 [Patreon 帳號](https://www.patreon.com/u105533883) 可能提供的任何內容
+
 ## 許可證
 
 此倉庫遵循以下自訂許可證：

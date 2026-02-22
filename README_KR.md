@@ -19,6 +19,34 @@
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## 부록
+
+본 텍스트는 DeepL 무료 버전으로 번역되었습니다.
+
+Sawaratsuki의 원본 계정은 반쯤 휴면 상태인 것으로 보입니다:
+* [저장소에 마지막으로 추가된 로고](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb)는 2025-04-16일자입니다
+* [트위터 마지막 게시물](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20)은 2024-06-02일자입니다
+* [Patreon 마지막 (공개) 게시물](https://www.patreon.com/posts/meikinguying-ri-103175447)은 2024-04-28일자입니다
+* [YouTube 마지막 동영상](https://www.youtube.com/watch?v=Off9zkQUmu4)은 2023-06-21일자입니다
+
+따라서 본 포크는 원본 저장소의 기록 보존을 목적으로 합니다.
+
+본 포크는 사와라츠키가 생성하지 않은 콘텐츠를 추가하지 않으며, 현재 이용 가능하고 공개된 모든 콘텐츠를 아카이브합니다.
+
+이를 위해 다음 단계를 수행했습니다:
+* 원본 저장소 포크
+* 저장소 평탄화(하위 폴더 제거 및 모든 이미지 저장소 루트 이동)
+* README 파일 명명 규칙 통합
+* 모든 파일명 통일
+  * 대소문자, 공백 수정
+  * `- transparent` 등 접미사 일관적 사용
+* 작성자의 [트위터 계정]에서 이미지 전체 다운로드
+  * “체커보드” 배경 대신 투명 버전 생성:
+    * 단순한 경우: Gimp (퍼지 선택, PNG로 복사); `- transparent` 표기
+    * 텍스트 주변에 흰색 테두리가 있는 경우: Gimp (퍼지 선택, PNG로 복사) 사용; `- transparent - hard crop`로 표기
+* 안타깝게도 저는 Skeb 계정이 없어 [Skeb 계정](https://skeb.jp/@sawaratsuki)에서 제공되는 이미지를 다운로드할 수 없습니다.
+* 안타깝게도 Patreon 계정이 없어 [Patreon 계정](https://www.patreon.com/u105533883)에서 제공될 수 있는 콘텐츠에 접근할 수 없습니다.
+
 ## 라이선스
 
 이 리포지토리는 다음과 같은 자체 라이선스가 부여됩니다.

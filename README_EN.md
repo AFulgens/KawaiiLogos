@@ -19,6 +19,34 @@ Hello and good evening. This is the repository where the logos created by Sawara
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Addendum
+
+This is the original, untranslated text for this section.
+
+The original accounts by Sawaratsuki seem to be semi-dormant:
+* The [last logo added to the repository](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) is from 2025-04-16
+* The [last post on Twitter](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) is from 2024-06-02
+* The [last (public) post on Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) is from 2024-04-28
+* The [last video on YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) is from 2023-06-21
+
+Thus, this fork of the original repository — for archival purposes.
+
+This fork does not add content not created by Sawaratsuki, it just archives all the content currently available and made public by them.
+
+This has been achieved by the following steps:
+* Fork the original repository
+* Flatten the repository, i.e., remove the sub-folders and put all the images into the root of the repository
+* Consolidate naming of README files
+* Consolidate naming of all files
+  * Correct casing, spacing
+  * Use `- transparent` and similar suffixes consistently
+* Download all the images from the [Twitter account](https://x.com/sawaratsuki1004) of the author
+  * Create transparent versions of the images instead of the "checkerboard" background either with
+    * Gimp (fuzzy select, copy into a PNG) for simple cases; noted with `- transparent`
+    * Gimp (fuzzy select, copy into a PNG) for cases where there is a white border around the text; noted with `- transparent - hard crop`
+* Sadly, I do not have a Skeb account, thus I cannot download the images available at the [Skeb account](https://skeb.jp/@sawaratsuki)
+* Sadly, I do not have a Patreon account, thus I cannot access any content that might be available at the [Patreon account](https://www.patreon.com/u105533883)
+
 ## License
 
 This repository is licensed under the following proprietary license.

@@ -19,6 +19,34 @@ Bonjour et bonsoir. Ceci est le dépôt où les logos créés par Sawaratsuki so
 
  <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Addendum
+
+Traduit avec DeepL.com (version gratuite)
+
+Les comptes originaux de Sawaratsuki semblent être semi-inactifs :
+* Le [dernier logo ajouté au dépôt](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) date du 16/04/2025
+* Le [dernier message sur Twitter](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) date du 02/06/2024
+* La [dernière publication (publique) sur Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) date du 28 avril 2024
+* La [dernière vidéo sur YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) date du 21 juin 2023
+
+Ce fork du dépôt original a donc été créé à des fins d'archivage.
+
+Cette fourche n'ajoute pas de contenu non créé par Sawaratsuki, elle archive simplement tout le contenu actuellement disponible et rendu public par eux.
+
+Cela a été réalisé en suivant les étapes suivantes :
+* Fourche du dépôt original
+* Aplatissement du dépôt, c'est-à-dire suppression des sous-dossiers et placement de toutes les images à la racine du dépôt
+* Consolidation de la dénomination des fichiers README
+* Harmonisation de la dénomination de tous les fichiers
+  * Correction de la casse et de l'espacement
+  * Utilisation cohérente de « - transparent » et de suffixes similaires
+* Téléchargement de toutes les images depuis le [compte Twitter] de l'auteur
+  * Création de versions transparentes des images à la place du fond « damier » à l'aide de
+    * Gimp (sélection floue, copie dans un fichier PNG) pour les cas simples ; noté avec « - transparent »
+    * Gimp (sélection floue, copier dans un PNG) pour les cas où il y a une bordure blanche autour du texte ; noté avec `- transparent - hard crop`
+* Malheureusement, je n'ai pas de compte Skeb, je ne peux donc pas télécharger les images disponibles sur le [compte Skeb](https://skeb.jp/@sawaratsuki)
+* Malheureusement, je n'ai pas de compte Patreon, je ne peux donc pas accéder au contenu qui pourrait être disponible sur le [compte Patreon](https://www.patreon.com/u105533883)
+
 ## Licence
 
 Ce dépôt est placé sous la licence propriétaire suivante.

@@ -20,6 +20,34 @@ Hai semuanya. Repositori ini adalah tempat di mana logo-logo yang dibuat oleh Sa
 
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Tambahan
+
+Teks ini telah diterjemahkan menggunakan versi gratis DeepL
+
+Akun asli Sawaratsuki tampaknya dalam keadaan semi-tidur:
+* Logo [terakhir yang ditambahkan ke repositori](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) adalah pada 2025-04-16
+* Postingan [terakhir di Twitter](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) adalah pada 2024-06-02
+* Posting [terakhir (publik) di Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) adalah pada 2024-04-28
+* Video [terakhir di YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) adalah pada 2023-06-21
+
+Oleh karena itu, garpu (fork) dari repositori asli ini dibuat untuk tujuan arsip.
+
+Fork ini tidak menambahkan konten yang tidak dibuat oleh Sawaratsuki, melainkan hanya mengarsipkan semua konten yang saat ini tersedia dan dipublikasikan oleh mereka.
+
+Hal ini telah dicapai melalui langkah-langkah berikut:
+* Membuat fork dari repositori asli
+* Meratakan repositori, yaitu menghapus sub-folder dan menempatkan semua gambar ke dalam direktori akar repositori
+* Mengonsolidasikan penamaan berkas README
+* Mengonsolidasikan penamaan semua file
+  * Memperbaiki huruf besar/kecil dan spasi
+  * Menggunakan sufiks `- transparent` dan sejenisnya secara konsisten
+* Mengunduh semua gambar dari akun Twitter penulis
+  * Membuat versi transparan gambar alih-alih latar belakang “checkerboard” dengan
+    * Gimp (fuzzy select, salin ke PNG) untuk kasus sederhana; ditandai dengan `- transparent`
+    * Gimp (pemilihan fuzzy, salin ke PNG) untuk kasus di mana ada batas putih di sekitar teks; ditandai dengan `- transparent - hard crop`
+* Sayangnya, saya tidak memiliki akun Skeb, sehingga tidak dapat mengunduh gambar yang tersedia di [akun Skeb](https://skeb.jp/@sawaratsuki)
+* Sayangnya, saya tidak memiliki akun Patreon, sehingga saya tidak dapat mengakses konten apa pun yang mungkin tersedia di [akun Patreon](https://www.patreon.com/u105533883)
+
 ## Lisensi
 
 Repositori ini dilisensikan berdasarkan lisensi kepemilikan berikut.

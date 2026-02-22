@@ -14,6 +14,34 @@ Witam i dobry wieczór. To jest repozytorium, w którym znajdują się loga stwo
  Zawartość tego repozytorium nie może być wykorzystywana do AI ani niczego innego, co Sawaratsuki uzna za równoważne.  
  Należy być tego świadomym.
 
+## Dodatek
+
+Ten tekst został przetłumaczony przez darmową wersję DeepL.
+
+Oryginalne konta Sawaratsuki wydają się być częściowo nieaktywne:
+* [Ostatnie logo dodane do repozytorium](https://github.com/SAWARATSUKI/KawaiiLogos/commit/47106701cfb22d4e50dc975197058ebeec57e09c#diff-8c91812263c6b8d3364a9a34f17d5399c6a47512469222c3f115ed24333996bb) pochodzi z dnia 2025-04-16
+* [Ostatni post na Twitterze](https://x.com/sawaratsuki1004/status/1797150726441009396?s=20) pochodzi z dnia 2024-06-02
+* [Ostatni (publiczny) post na Patreon](https://www.patreon.com/posts/meikinguying-ri-103175447) pochodzi z dnia 2024-04-28
+* [Ostatni film na YouTube](https://www.youtube.com/watch?v=Off9zkQUmu4) pochodzi z dnia 2023-06-21
+
+W związku z tym niniejszy fork oryginalnego repozytorium służy celom archiwizacyjnym.
+
+Ten fork nie dodaje treści, które nie zostały stworzone przez Sawaratsuki, a jedynie archiwizuje wszystkie treści obecnie dostępne i upublicznione przez tę osobę.
+
+Osiągnięto to poprzez następujące kroki:
+* Fork oryginalnego repozytorium
+* Spłaszczenie repozytorium, tj. usunięcie podfolderów i umieszczenie wszystkich obrazów w katalogu głównym repozytorium
+* Ujednolicenie nazewnictwa plików README
+* Ujednolicenie nazewnictwa wszystkich plików
+  * Poprawienie wielkości liter, odstępów
+  * Konsekwentne stosowanie sufiksów `- transparent` i podobnych
+* Pobranie wszystkich obrazów z [konta na Twitterze] autora
+  * Utworzenie przezroczystych wersji obrazów zamiast tła „szachownicy” za pomocą
+    * Gimp (wybór rozmyty, skopiowanie do PNG) w prostych przypadkach; oznaczone jako `- transparent`
+    * Gimp (wybór rozmyty, skopiuj do PNG) w przypadkach, gdy wokół tekstu znajduje się biała ramka; oznaczone jako `- transparent - hard crop`
+* Niestety nie posiadam konta Skeb, więc nie mogę pobrać obrazów dostępnych na [koncie Skeb](https://skeb.jp/@sawaratsuki).
+* Niestety nie mam konta Patreon, więc nie mam dostępu do żadnych treści, które mogą być dostępne na [koncie Patreon](https://www.patreon.com/u105533883)
+
 ## Licencja
 
 To repozytorium jest licencjonowane na następującej licencji.
