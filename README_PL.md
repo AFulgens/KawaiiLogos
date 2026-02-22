@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
+[日本語 README](./README.md) | [简体中文 README](/README_ZH_HANS.md) | [Indonesian README](/README_ID.md) | [Türkçe README](/README_TR.md) | [한국어 README](/README_KR.md) | [README Français](/README_FR.md)
 
 Witam i dobry wieczór. To jest repozytorium, w którym znajdują się loga stworzone przez Sawaratsuki.
 
